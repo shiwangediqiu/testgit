@@ -4,3 +4,4 @@ woshihuochewang!
 python is the best language!
 git is fun aa hahahah
 add a testline
+Creating a new branch is quick and simple.
